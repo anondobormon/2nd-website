@@ -125,7 +125,7 @@ header ul li a:hover{
 
 
 .about{
-    background: url(/Photo/bg4.jpg);
+    background: url(Photo/bg4.jpg);
     background-size: cover;
     padding-bottom: 5%;
 }
@@ -276,7 +276,7 @@ header ul li a:hover{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: url(/Photo/bg3.jpg);
+    background: url(Photo/bg3.jpg);
     background-size: cover;
 
 }
